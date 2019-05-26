@@ -10,7 +10,7 @@ Credits
 The following people helped with the translation or by giving valuable feedback:
 
 * [Akihiro Ishida (石田朗大)](https://www.worldcubeassociation.org/persons/2009ISHI01) (contributed in 2016 and 2015)
-* [Ayano Maria Yoshida (吉田彩乃)](https://www.worldcubeassociation.org/persons/2009YOSH01) (contributed in 2013 and 2010)
+* [Ayano Maria Yoshida](https://www.worldcubeassociation.org/persons/2009YOSH01) (contributed in 2013 and 2010)
 * [Kentaro Nishi (西賢太郎)](https://www.worldcubeassociation.org/persons/2006NISH01) (contributed in 2016, 2015, and 2010)
 * [Kotaro Terada (寺田晃太朗)](https://www.worldcubeassociation.org/persons/2010TERA01) (contributed in 2019, 2018, 2016, 2015, 2013, and 2010)
 * [Masayuki Hirai (平井雅之)](https://www.worldcubeassociation.org/persons/2014HIRA05) (contributed in 2019 and 2018)
@@ -25,5 +25,5 @@ The following people helped with the translation or by giving valuable feedback:
 * [Yohei Oka (岡要平)](https://www.worldcubeassociation.org/persons/2006OKAY01) (contributed in 2010)
 * [Yohei Suzuki (鈴木洋平)](https://www.worldcubeassociation.org/persons/2006SUZU03) (contributed in 2015)
 * [Yuichi Hamada (濵田祐一)](https://www.worldcubeassociation.org/persons/2012HAMA02) (contributed in 2019 and 2018)
-* [Yuuki Tanaka (田中佑樹)](https://www.worldcubeassociation.org/persons/2011TANA04) (contributed in 2019 and 2018)
+* [Yuki Tanaka (田中悠樹)](https://www.worldcubeassociation.org/persons/2010TANA02) (contributed in 2019 and 2018)
 * [Wataru Hashimura (端村航)](https://www.worldcubeassociation.org/persons/2008HASH02) (contributed in 2013)
