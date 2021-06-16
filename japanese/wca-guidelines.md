@@ -119,7 +119,7 @@ WCA ガイドラインには [WCA 大会規則](regulations:top)の補足を載�
 - 9f5+) [明示] 試技の結果が DNS となるのは、競技者が試技を行う資格があったにもかかわらず試技を開始しなかった場合である（参照：[規則 A3b2](regulations:regulation:A3b2)）。競技者が試技を行う資格がなかった場合（例：カットオフラウンド）、その試技は記録なしである。
 - 9p2+) [明示] 次ラウンド進出条件として使用できるのは，当該ラウンドの順位決定に用いられている単発記録または平均記録である。
 - 9q+) [推奨] 各種目、各ラウンドにおいて最低 2 人以上の競技者がいることが望ましい。
-- 9t+) [説明] [規則 9t1](regulations:regulain:9t1) と [規則 9t2](regulations:regulain:9t2) のため、ラウンドは [規則 9p1](regulations:regulation:9p1)、[規則 9m1](regulations:regulation:9m1)、[規則 9m2](regulations:regulation:9m2) または [規則 9m3](regulations:regulation:9m3) を遵守していないように見える場合がある。しかしながら、これらのルールに準拠するように変更を行うことは無罪の競技者に影響を与えるため、結果は同じままとしなければならない。
+- 9t+) [説明] [規則 9t1](regulations:regulation:9t1) と [規則 9t2](regulations:regulation:9t2) のため、ラウンドは [規則 9p1](regulations:regulation:9p1)、[規則 9m1](regulations:regulation:9m1)、[規則 9m2](regulations:regulation:9m2) または [規則 9m3](regulations:regulation:9m3) を遵守しない結果になることがあるが、これは当該のインシデントと関係のない第三者が不利益を被らないための措置である。
 - 9t++) [追記] 大会の開催中に結果の変更が発生した場合にも、このルールを適用しなければならない。この場合、WCA 代理人の裁量により、[規則 9t1](regulations:regulain:9t1)、[規則 9t2](regulations:regulain:9t2) および [規則 9t3](regulations:regulain:9t3) にも従うことが望ましい。
 - 9t3+) [例] ある種目の最初のラウンドで、競技者 A が平均 10.00 を記録し、競技者 B が平均 10.05 を記録して、競技者 A は最終ラウンドに進んだが B は進まなかったとする。記録入力の誤りが発見され、競技者 B が実際には平均 9.95 を記録していた場合（そして A の代わりに進むべきだった場合）、競技者 A の最終ラウンドの結果は削除されずに維持される。
 
